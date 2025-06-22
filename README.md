@@ -33,4 +33,4 @@ Steve Michael
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/stevemichael15/ML_Practice_Daily.git
+   git clone https://github.com/stevemichael15/ML-project.git
