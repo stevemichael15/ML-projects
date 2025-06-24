@@ -11,7 +11,7 @@ Each folder contains a self-contained ML implementation, including code, dataset
 |-----|----------------------------------|------------------------|--------------------------------------------------------------------------------------------
 | 01  | Iris Flower Classification       | Logistic Regression    |  This is an iris dataset to determine the species of the flower that is export from seaborn
 | 02  | Movie dataset                    | Logistic Regression    |  This is a movie dataset that is exported from kaggle to determine if movie is hit or flop
-| 03  |                                  |                        |  
+| 03  | Make Moons                       | clustering Methods     |  This is a make moon dataset where the spread of the data points are observed and analysed
 | 04  |                                  |                        |  
 | 05  |                                  |                        |  
 | 06  |                                  |                        |  
